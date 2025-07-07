@@ -7,14 +7,14 @@ This repository contains a collection of SQL queries designed to analyze the **C
 
 | File Description |
 
-| `available_in_1_store.sql` | Lists films that are only available in one store |
-| `avg_bw_rental_return.sql` | Calculates the average time between rental and return per film |
-| `avg_rental_duration.sql` | Calculates the average rental duration for each film |
-| `films_each_store.sql` | Displays how many films each store has in inventory |
-| `most_rented_by_language.sql` | Shows rental counts by film language |
-| `top_3_categories.sql` | Identifies the top 3 most popular film categories |
-| `top_5_spent.sql` | Lists the top 5 customers who spent the most money |
-| `top_10_rental.sql` | Lists the top 10 most rented films |
+- available_in_1_store.sql | Lists films that are only available in one store. 
+- avg_bw_rental_return.sql | Calculates the average time between rental and return per film. 
+- avg_rental_duration.sql | Calculates the average rental duration for each film. 
+- films_each_store.sql | Displays how many films each store has in inventory. 
+- most_rented_by_language.sql | Shows rental counts by film language. 
+- top_3_categories.sql | Identifies the top 3 most popular film categories. 
+- top_5_spent.sql | Lists the top 5 customers who spent the most money. 
+- top_10_rental.sql | Lists the top 10 most rented films. 
 
 
 ## Usage
