@@ -6,7 +6,7 @@ This repository contains a collection of SQL queries designed to analyze the **C
 ## Files
 
 | File Description |
-|-------|-------------|
+
 | `available_in_1_store.sql` | Lists films that are only available in one store |
 | `avg_bw_rental_return.sql` | Calculates the average time between rental and return per film |
 | `avg_rental_duration.sql` | Calculates the average rental duration for each film |
@@ -26,4 +26,8 @@ This repository contains a collection of SQL queries designed to analyze the **C
 ## Requirements
 
 - PostgreSQL (recommended version: 12+)
-- D Rental sample database in .tar format.
+- CD Rental sample database in .tar format.
+
+## Schema- CD Rental Database
+![CD_Rental_Schema](https://github.com/user-attachments/assets/12b214e4-6688-4550-8c04-b69c99696308)
+
